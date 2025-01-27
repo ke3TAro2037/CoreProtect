@@ -1405,7 +1405,7 @@ public class Util extends Queue {
 
     public static boolean validDonationKey() {
         //return NetworkHandler.donationKey() != null;
-        return true
+        return true;
     }
 
     public static String getBranch() {
